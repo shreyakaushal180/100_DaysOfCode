@@ -24,6 +24,6 @@ public class butterfly {
         }
     }
     public static void main(String[] args) {
-        Butterfly(5);
+        Butterfly(8);
     }
 }
