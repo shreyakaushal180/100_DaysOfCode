@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 <p>The repository is structured into folders based on various programming concepts and problem-solving techniques. Each folder contains Java programs showcasing different topics and exercises completed during this challenge.</p>
 <h2>Progress</h2>
-<ul><li>Total Commits: 11 (and counting!)</li>
+<ul><li>Total Commits: 18 (and counting!)</li>
 </ul>
 <h2>Goals</h2>
 <ul>
