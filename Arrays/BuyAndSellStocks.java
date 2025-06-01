@@ -13,8 +13,7 @@ public class BuyAndSellStocks {
                     maxProfit = profit;
                 }
                
-            }
-            if(buyPrice > prices[i]){
+            }else{
                 buyPrice = prices[i];
             }
         }return maxProfit;
@@ -26,3 +25,4 @@ public class BuyAndSellStocks {
 
     }
 }
+// O(n) -> Time Complexity
